@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![dino](https://github.com/iuming/iuming/blob/master/dino.gif)
+
 <!--
 **iuming/iuming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

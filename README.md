@@ -1,6 +1,6 @@
 # Hello there! 👋🏻
 
-I am Liu Ming 🙋🏻‍♂️, a IOer, sports enthusiast, full stack engineer, data analyst & nuclear science researcher.
+I am Liu Ming 🙋🏻‍♂️, a OIer, sports enthusiast, full stack engineer, data analyst & nuclear science researcher.
 
 ## Connect with Me 🤝🏻
 
